@@ -4,6 +4,6 @@
     <main aria-labelledby="title">
         <h2 id="title"><%: Title %>.</h2>
         <p>Your app description page.</p>
-        <p>Use this area to provide additional information.</p>
+        <p>12:10am update</p>
     </main>
 </asp:Content>
