@@ -165,6 +165,7 @@
   <ItemGroup>
     <Content Include="About.aspx" />
     <Content Include="branch_modul01.html" />
+    <Content Include="car_photo.html" />
     <Content Include="Contact.aspx" />
     <Content Include="Content\bootstrap-grid.css" />
     <Content Include="Content\bootstrap-grid.min.css" />
